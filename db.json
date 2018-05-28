@@ -1,0 +1,12 @@
+{
+  "name": "Test Image",
+  "image": "http://01100010.com.s3.amazonaws.com/samples/leaves.jpg", 
+  "description": "Green leaves on a bright yellow background (2670 × 2001)", 
+  "attributes": {
+    "theme": "pattern",
+    "predominant_color": "yellow",
+    "orientation": "landscape",
+  },
+  "external_url": "http://01100010.com.s3.amazonaws.com/123", 
+  "background_color": "#F7F555"
+}
