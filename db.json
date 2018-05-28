@@ -5,7 +5,7 @@
   "attributes": {
     "theme": "pattern",
     "predominant_color": "yellow",
-    "orientation": "landscape",
+    "orientation": "landscape"
   },
   "external_url": "http://01100010.com.s3.amazonaws.com/123", 
   "background_color": "#F7F555"
